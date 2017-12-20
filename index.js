@@ -5,6 +5,5 @@ import start from './app/start';
 //2222
 //3333
 //4444
-//5555
 
 //AppRegistry.registerComponent('Test', () => start);
