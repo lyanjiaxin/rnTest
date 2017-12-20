@@ -10,5 +10,6 @@ import start from './app/start';
 //7777
 //8888
 //9999
+//0000
 
 //AppRegistry.registerComponent('Test', () => start);
