@@ -62,7 +62,7 @@ export default class FetchNetData extends Component {
     }
 }
 
-//Home Commit
+//Mod Commit
 const UserItemStyle = StyleSheet.create({
     container_out: {
         backgroundColor: "white",
