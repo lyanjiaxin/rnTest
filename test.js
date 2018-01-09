@@ -1,3 +1,4 @@
-var a = 0;
-alert(a);
+function process(data){
 
+}
+var a = 0;
